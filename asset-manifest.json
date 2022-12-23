@@ -1,8 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio2/static/css/main.0076986d.css",
-    "main.js": "/portfolio2/static/js/main.150ee5ce.js",
+    "main.css": "/portfolio2/static/css/main.a18602f2.css",
+    "main.js": "/portfolio2/static/js/main.196226ba.js",
     "static/media/personel.png": "/portfolio2/static/media/personel.4a9fb5450ff9b3c9ce44.png",
+    "static/media/fastfood.png": "/portfolio2/static/media/fastfood.02d3f23551a347301fe7.png",
+    "static/media/coffe.png": "/portfolio2/static/media/coffe.40925c6f519f93d8120c.png",
+    "static/media/dakirni.png": "/portfolio2/static/media/dakirni.38f82a026f398a2ebcd3.png",
+    "static/media/dentist.png": "/portfolio2/static/media/dentist.01eacfd9c6669c1861b1.png",
+    "static/media/alone OC white t shirt.png": "/portfolio2/static/media/alone OC white t shirt.8c7ad0da18f1f077338c.png",
+    "static/media/mytshirt.jpg": "/portfolio2/static/media/mytshirt.d651d19d515ccb14a79f.jpg",
+    "static/media/alone white t shirt.png": "/portfolio2/static/media/alone white t shirt.09089ebc5c5b441e816c.png",
+    "static/media/qa1.png": "/portfolio2/static/media/qa1.65fafe2b6b78a60ecbe8.png",
     "static/media/cv.pdf": "/portfolio2/static/media/cv.264a2bc6d0000b05e811.pdf",
     "static/media/laptop.png": "/portfolio2/static/media/laptop.14bbb4ba9e4b04060259.png",
     "static/media/science.png": "/portfolio2/static/media/science.3bf6fb4b18b1f904676d.png",
@@ -12,11 +20,11 @@
     "static/media/css-3.png": "/portfolio2/static/media/css-3.463e319bad8e0edf1ef7.png",
     "static/media/bootstrap.png": "/portfolio2/static/media/bootstrap.268c4375260420e8d982.png",
     "index.html": "/portfolio2/index.html",
-    "main.0076986d.css.map": "/portfolio2/static/css/main.0076986d.css.map",
-    "main.150ee5ce.js.map": "/portfolio2/static/js/main.150ee5ce.js.map"
+    "main.a18602f2.css.map": "/portfolio2/static/css/main.a18602f2.css.map",
+    "main.196226ba.js.map": "/portfolio2/static/js/main.196226ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.0076986d.css",
-    "static/js/main.150ee5ce.js"
+    "static/css/main.a18602f2.css",
+    "static/js/main.196226ba.js"
   ]
 }
